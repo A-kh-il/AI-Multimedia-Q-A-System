@@ -1,0 +1,10 @@
+venv
+__pycache__
+uploads
+faiss_index.bin
+texts.pkl
+*.pyc
+*.pyo
+*.pyd
+.cache
+.git
